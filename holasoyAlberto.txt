@@ -2,6 +2,6 @@ Hola, Git!
 
 Soy Alberto. ¿Qué tal?.
 
-¡Hablamos!
+Hablamos!
 
 Saludos.
